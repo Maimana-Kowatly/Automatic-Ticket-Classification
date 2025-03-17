@@ -58,8 +58,8 @@ To run this project, you will need:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/customer-complaint-classification.git
-   cd customer-complaint-classification
+   git clone https://github.com/Maimana-Kowatly/Automatic-Ticket-Classification.git
+   cd Automatic-Ticket-Classification
    ```
 2. Install dependencies:
    ```bash
